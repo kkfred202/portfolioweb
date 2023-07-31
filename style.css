@@ -106,6 +106,10 @@ section {
 .home-content p{
     font-size: 1.6rem;
     margin: 2rem 0 4rem;
+    padding: 5px;
+    padding-right: 150px;
+    background-color: var(--bg-color);
+
 }
 .btn-box {
     position: relative;
